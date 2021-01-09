@@ -1,6 +1,9 @@
 # raspberry4_zabbix_agent
 Raspberry 4 Zabbix Agent 5.2
 
+- Raspberry 4 4MB
+- Ubuntu 20.04.1 LTS (GNU/Linux 5.4.0-1025-raspi aarch64)
+- zabbix_agentd 5.2
 
 Self compiled from Zabbix source
 ```
