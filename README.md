@@ -1,4 +1,4 @@
-# raspberry4_zabbix_agent
+# raspberry_zabbix_agent
 Raspberry 4 Zabbix Agent 5.2
 
 - Raspberry 4 4MB
